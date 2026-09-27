@@ -12,3 +12,9 @@ A responsive, multi-page fitness club website built with pure HTML5 and CSS3.
 - Fixed transparent navigation bar with smooth scrolling and page switching.
 - Responsive design with hover animations.
 - Background gym video integration.
+
+## Contact & Location
+- **Address**: Aurex Fitness Club, Club Charoli, Near ADYPU, Lohegaon, Pune
+- **Phone**: [+91 99999 12121](tel:+919999912121)
+- **Email**: [sales@Aurexclub.fit](mailto:sales@Aurexclub.fit)
+
